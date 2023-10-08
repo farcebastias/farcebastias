@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Fernando 👋
+### 👋 Hi, I'm Fernando
 
 🎓 I'm a Chemical Engineer and I'm currently a PhD student
 
