@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 Hi, I'm Fernando 👋
 
+🎓 I'm a Chemical Engineer and I'm currently a PhD student
+
+🌱 I’m currently learning more about Data Science techniques and tools
+
+👯 I’m looking to collaborate on projects related to Data Science
 <!--
 **farcebastias/farcebastias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
